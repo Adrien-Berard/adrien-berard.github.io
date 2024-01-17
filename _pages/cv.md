@@ -7,5 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{[CV](../files/Academic_CV_Adrien_Berard-2024.pdf)}
+<a href="adrien-berard.github.io/files/Academic_CV_Adrien_Berard-2024.pdf" target="_blank">PDF.</a>
+
 
