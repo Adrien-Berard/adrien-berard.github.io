@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Adrien Berard"
-  avatar           : "images/ID.jpeg"
+  avatar           : images/ID.jpeg
   bio              : "Biophysics master student - research intern"
   location         : "Copenhagen"
   employer         :
