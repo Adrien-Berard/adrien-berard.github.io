@@ -16,3 +16,6 @@ I am currently doing an internship under the supervision of Dr.Genevieve Thon an
 
 <img src="adrien-berard.website.github.io/images/Ku-ucph-logo-svg.svg" alt="logo UCPH">
 
+![Sorbonne logo](../images/Sciences_SU.png)
+
+![KU logo](../images/Ku-ucph-logo-svg.svg)
