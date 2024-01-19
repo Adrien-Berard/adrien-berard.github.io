@@ -1,6 +1,6 @@
 ---
 title: 'Viticulture biodynamique: croyance, pseudo-science ?'
-date: 18-06-2021
+date: 2021-06-18
 permalink: /posts/2021/06/blog-post-1/
 tags:
   - cool posts
