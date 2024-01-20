@@ -20,7 +20,7 @@ main:
     url: /references/
   
   - title: "Blog Posts"
-   url: /year-archive/
+    url: /year-archive/
   
   - title: "Personnal"
     url: /personnal/
