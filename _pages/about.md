@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Dear reader, I am a biophysics master student currently in my first year at Sorbonne University. 
-I am currently doing an internship under the supervision of Dr.Genevieve Thon and Dr.Kim Sneppen respectively a biologist at the Dpt of Biology of UCPH and a physicist at the Niels Bohr Institute of UCPH. The goal of my internship is to study heterochromatin in fission yeast. The kinetics of the modifications happening on the nucleosomes and the dynamics of the chromatin will be studied with cellular and molecular biology methods as well as a physical theoretical background : the liquid-liquid phase separation theory.
+Dear reader,
 
+I am a first-year biophysics master's student at Sorbonne University currently undertaking an internship under the supervision of Dr. Genevieve Thon, a biologist at the Department of Biology of the University of Copenhagen (UCPH), and Dr. Kim Sneppen, a physicist at the Niels Bohr Institute of UCPH. The focus of my internship is the study of heterochromatin in fission yeast. Our research involves investigating the kinetics of nucleosome modifications and the dynamics of chromatin using a combination of cellular and molecular biology methods, along with a theoretical foundation in the liquid-liquid phase separation theory.
 
 <img src="https://adrien-berard.github.io/website.github.io/images/Sciences_SU.png" alt="logo Sorbonne Université">
 
@@ -18,3 +18,4 @@ I am currently doing an internship under the supervision of Dr.Genevieve Thon an
 <img src="https://adrien-berard.github.io/website.github.io/images/Ku-ucph-logo-svg.svg" alt="logo UCPH">
 
 
+This website has recently been created, and we welcome any comments for improvement.
