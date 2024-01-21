@@ -4,9 +4,12 @@ title: "Personnal"
 permalink: /personnal/
 author_profile: true
 ---
+# My Interests
 
-# Sports
-Dear Website Visitors,
+<details>
+  <summary>Sport</summary>
+
+  Dear Website Visitors,
 
 I hope this message finds you in good spirits. Today, I'm excited to share a glimpse into the active and adventurous side of my life, a realm that has played a significant role in shaping my identity.
 
@@ -24,10 +27,14 @@ Thank you for taking the time to learn a bit more about this aspect of my life. 
 
 Sportively,
 
-Adrien Berard
+Adrien 
 
-# Association
-## Trek'Yz - A Charitable Journey for A Chacun son Everest !
+</details>
+
+<details>
+  <summary>Caritative Work</summary>
+
+  ## Trek'Yz - A Charitable Journey for A Chacun son Everest !
 
 # Trek'Yz - A Charitable Journey Fueled by Passion
 
@@ -61,10 +68,8 @@ Thank you for your interest and support.
 
 Best regards,
 
-[Your Full Name]
+Adrien
 Co-founder, Trek'Yz
-[Link to Rémi Berard's LinkedIn Page]
-[Link to A Chacun son Everest ! Page]
 
 ---
 
@@ -113,8 +118,12 @@ Adrien
 Co-founder, Trek'Yz
 
 
-# Music
- I wanted to take a moment to share a bit more about myself in the personal section of my academic website. Beyond my academic pursuits, I have a deep passion for music that has been a constant companion throughout my life.
+</details>
+
+<details>
+  <summary>Music</summary>
+
+  I wanted to take a moment to share a bit more about myself in the personal section of my academic website. Beyond my academic pursuits, I have a deep passion for music that has been a constant companion throughout my life.
 
 From the powerful beats of rock music to the distinctive sounds of Britpop, the improvisational nature of jazz, and the unique charm of indie tunes, I find inspiration in a diverse range of musical genres. My musical journey began during middle and high school when I had the incredible opportunity to play the French horn. Those years were filled with enriching experiences, and the French horn became an integral part of my identity. I particularly like the concerto for French Horn for Mozart or, a bit more unknown, Julius Watkins music : a black-american French Horn Jazzman.
 
@@ -129,3 +138,8 @@ If you are inclined, I would be delighted if you could share your Spotify Wrappe
 Thank you for taking the time to get to know me a bit better. I look forward to connecting with you through the universal language of music.
 
 (written with the help of ChatGPT 😏) 
+
+</details>
+
+
+ 
