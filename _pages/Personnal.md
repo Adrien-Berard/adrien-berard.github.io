@@ -8,26 +8,16 @@ author_profile: true
 
 <details>
   <summary>Sport</summary>
-  
-  Dear Website Visitors,
-  
-  I hope this message finds you in good spirits. Today, I'm excited to share a glimpse into the active and adventurous side of my life, a realm that has played a significant role in shaping my identity.
-  
-  From the early age of 6 until I turned 18, rugby was more than just a sport for me – it was a way of life. The camaraderie, the physicality, and the sheer thrill of the game were constants in my formative years. Beyond the rugby pitch, my love for outdoor sports knows no bounds. Whether it's the rhythmic pounding of my feet against the pavement while running, the adrenaline-fueled excitement of trail running, the serenity of trekking, or the speed and freedom experienced while riding a VTT or road bike – each activity holds a special place in my heart.
-
-  During my high school years, I immersed myself in the sports section, actively participating in volleyball, swimming, and VTT. While these were the mainstays, the sports section also introduced me to a plethora of exciting activities that ranged far and wide. These experiences not only fueled my passion for sports but also fostered a sense of exploration and discovery.
-
-  In my undergraduate years, I had the privilege of serving as the president of the sports association for the CPES bachelor's degree program. This role allowed me to further contribute to the vibrant sports community within the academic sphere, promoting the values of teamwork, discipline, and the joy of physical activity even though it was during Covid times.
-
-  I extend an invitation to you to join me in exploring the world of sports, whether through shared interests or by discovering something new together. Feel free to delve into this section of my website to gain a deeper understanding of the various facets of my sporting journey.
-
-  If you're inclined, I'd love to hear about your own sporting adventures. Perhaps you could share your favorite activities, memorable moments, or even your go-to outdoor spots.
-
-  Thank you for taking the time to learn a bit more about this aspect of my life. I look forward to the opportunity to connect with you through our shared enthusiasm for sports.
-
-  Sportively,
-
-  Adrien 
+   Dear Website Visitors,
+   I hope this message finds you in good spirits. Today, I'm excited to share a glimpse into the active and adventurous side of my life, a realm that has played a significant role in shaping my identity.
+   From the early age of 6 until I turned 18, rugby was more than just a sport for me – it was a way of life. The camaraderie, the physicality, and the sheer thrill of the game were constants in my formative years. Beyond the rugby pitch, my love for outdoor sports knows no bounds. Whether it's the rhythmic pounding of my feet against the pavement while running, the adrenaline-fueled excitement of trail running, the serenity of trekking, or the speed and freedom experienced while riding a VTT or road bike – each activity holds a special place in my heart.
+   During my high school years, I immersed myself in the sports section, actively participating in volleyball, swimming, and VTT. While these were the mainstays, the sports section also introduced me to a plethora of exciting activities that ranged far and wide. These experiences not only fueled my passion for sports but also fostered a sense of exploration and discovery. 
+   In my undergraduate years, I had the privilege of serving as the president of the sports association for the CPES bachelor's degree program. This role allowed me to further contribute to the vibrant sports community within the academic sphere, promoting the values of teamwork, discipline, and the joy of physical activity even though it was during Covid times.
+   I extend an invitation to you to join me in exploring the world of sports, whether through shared interests or by discovering something new together. Feel free to delve into this section of my website to gain a deeper understanding of the various facets of my sporting journey.
+   If you're inclined, I'd love to hear about your own sporting adventures. Perhaps you could share your favorite activities, memorable moments, or even your go-to outdoor spots.
+   Thank you for taking the time to learn a bit more about this aspect of my life. I look forward to the opportunity to connect with you through our shared enthusiasm for sports.
+   Sportively,
+   Adrien 
 
 </details>
 
