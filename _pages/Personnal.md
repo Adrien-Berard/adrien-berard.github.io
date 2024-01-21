@@ -9,6 +9,7 @@ author_profile: true
 <details open>
 <summary>Sport</summary>
 
+
 Dear Website Visitors, 
 
 
@@ -40,7 +41,7 @@ Adrien
 
 </details>
 
-<details open>
+<details>
 <summary>Caritative Work</summary>
 
 ## Trek'Yz - A Charitable Journey for A Chacun son Everest !
@@ -131,8 +132,10 @@ Co-founder, Trek'Yz
 
 </details>
 
-<details open>
+<details>
 <summary>Music</summary>
+
+
 I wanted to take a moment to share a bit more about myself in the personal section of my academic website. Beyond my academic pursuits, I have a deep passion for music that has been a constant companion throughout my life.
 
 
