@@ -8,7 +8,7 @@ author_profile: true
 
 <details>
   <summary>Sport</summary>
-   Dear Website Visitors,
+   Dear Website Visitors, //
    I hope this message finds you in good spirits. Today, I'm excited to share a glimpse into the active and adventurous side of my life, a realm that has played a significant role in shaping my identity.
    From the early age of 6 until I turned 18, rugby was more than just a sport for me – it was a way of life. The camaraderie, the physicality, and the sheer thrill of the game were constants in my formative years. Beyond the rugby pitch, my love for outdoor sports knows no bounds. Whether it's the rhythmic pounding of my feet against the pavement while running, the adrenaline-fueled excitement of trail running, the serenity of trekking, or the speed and freedom experienced while riding a VTT or road bike – each activity holds a special place in my heart.
    During my high school years, I immersed myself in the sports section, actively participating in volleyball, swimming, and VTT. While these were the mainstays, the sports section also introduced me to a plethora of exciting activities that ranged far and wide. These experiences not only fueled my passion for sports but also fostered a sense of exploration and discovery. 
