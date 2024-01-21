@@ -39,7 +39,7 @@ Adrien
 
 # Caritative work
 
-### Trek'Yz - A Charitable Journey for A Chacun son Everest !
+## Trek'Yz - A Charitable Journey for A Chacun son Everest !
 
 ## Trek'Yz - A Charitable Journey Fueled by Passion
 
@@ -98,7 +98,7 @@ Co-founder, Trek'Yz
 
 #### Image
 
-![Trek'Yz Team](images/images_trekyz.png)
+![Trek'Yz Team](../images/images_trekyz.png)
 
 #### Overview
 
@@ -153,5 +153,4 @@ Thank you for taking the time to get to know me a bit better. I look forward to 
 
 (written with the help of ChatGPT 😏) 
 
-</details>
 
