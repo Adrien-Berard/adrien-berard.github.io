@@ -34,88 +34,88 @@ Adrien
 <details>
   <summary>Caritative Work</summary>
 
-  ## Trek'Yz - A Charitable Journey for A Chacun son Everest !
+         ** Trek'Yz - A Charitable Journey for A Chacun son Everest ! **
 
-# Trek'Yz - A Charitable Journey Fueled by Passion
+    * Trek'Yz - A Charitable Journey Fueled by Passion *
 
-## About Trek'Yz
+    ** About Trek'Yz **
 
-[Trek'Yz Instagram Page](https://www.instagram.com/trekyz/?hl=fr)
+    [Trek'Yz Instagram Page](https://www.instagram.com/trekyz/?hl=fr)
 
-### Overview
+    *** Overview ***
 
-Trek'Yz is a charitable project that I co-founded alongside my twin, Rémi Berard, and one of my best friends, Tom Lengellé. Born from our shared passion for sports, a deep connection to Auvergne, and the commitment to making a positive impact, Trek'Yz represents a unique fusion of physical endurance and philanthropy.
+    Trek'Yz is a charitable project that I co-founded alongside my twin, Rémi Berard, and one of my best friends, Tom Lengellé. Born from our shared passion for sports, a deep connection to Auvergne, and the commitment to making a positive impact, Trek'Yz represents a unique fusion of physical endurance and philanthropy.
 
-### The Extended Challenge
+    *** The Extended Challenge ***
 
-Our project took on a new dimension as we set out to cover a remarkable 100 kilometers in just two days. Every kilometer we traversed contributed €10, while each summit conquered added €100 to our fundraising efforts. Against the stunning backdrop of Auvergne, our beloved natal region, this extended challenge aimed to push our physical limits while raising crucial funds for the association "A Chacun son Everest !".
+    Our project took on a new dimension as we set out to cover a remarkable 100 kilometers in just two days. Every kilometer we traversed contributed €10, while each summit conquered added €100 to our fundraising efforts. Against the stunning backdrop of Auvergne, our beloved natal region, this extended challenge aimed to push our physical limits while raising crucial funds for the association "A Chacun son Everest !".
 
-### The Epic Journey
+    *** The Epic Journey ***
 
-Embarking on this odyssey, we journeyed through the heart of Auvergne, embracing the diverse landscapes that define our region. Whether under the radiant sun or the quiet moon, our team moved with purpose and determination. The extended duration of this challenge allowed us to delve even deeper into the beauty of our surroundings, fostering a profound connection to the cause we were championing.
+    Embarking on this odyssey, we journeyed through the heart of Auvergne, embracing the diverse landscapes that define our region. Whether under the radiant sun or the quiet moon, our team moved with purpose and determination. The extended duration of this challenge allowed us to delve even deeper into the beauty of our surroundings, fostering a profound connection to the cause we were championing.
 
-### Purposeful Strides
+    *** Purposeful Strides ***
 
-Every step of the 100 kilometers symbolized our commitment to making a difference. The funds we raised were directed towards the invaluable work of "A Chacun son Everest !," supporting children and women affected by cancer. The challenge became more than a physical feat; it became a testament to the resilience of the human spirit and the collective power of a community working towards a meaningful cause.
+    Every step of the 100 kilometers symbolized our commitment to making a difference. The funds we raised were directed towards the invaluable work of "A Chacun son Everest !," supporting children and women affected by cancer. The challenge became more than a physical feat; it became a testament to the resilience of the human spirit and the collective power of a community working towards a meaningful cause.
 
-### Get Involved
+    *** Get Involved ***
 
-If you are inspired by our odyssey and wish to contribute or stay updated on our adventures, follow our [Instagram page](https://www.instagram.com/trekyz/?hl=fr).
+    If you are inspired by our odyssey and wish to contribute or stay updated on our adventures, follow our [Instagram page](https://www.instagram.com/trekyz/?hl=fr).
 
-Join us in celebrating the indomitable spirit of Trek'Yz - where each kilometer is a testament to our shared commitment to making a positive impact.
+    Join us in celebrating the indomitable spirit of Trek'Yz - where each kilometer is a testament to our shared commitment to making a positive impact.
 
-Thank you for your interest and support.
+    Thank you for your interest and support.
 
-Best regards,
+    Best regards,
 
-Adrien
-Co-founder, Trek'Yz
+    Adrien
+    Co-founder, Trek'Yz
 
----
+    ---
 
-# Trek'Yz - Connect with Us!
+    * Trek'Yz - Connect with Us! *
 
-## About Trek'Yz
+    ** About Trek'Yz **
 
-[Trek'Yz Instagram Page](https://www.instagram.com/trekyz/?hl=fr)
+    [Trek'Yz Instagram Page](https://www.instagram.com/trekyz/?hl=fr)
 
-### Meet the Team
+    *** Meet the Team ***
 
-- [Tom Lengellé - Facebook](https://m.facebook.com/tom.lengelle/)
-- [Rémi Berard - LinkedIn](https://www.linkedin.com/in/remiberard/)
+    - [Tom Lengellé - Facebook](https://m.facebook.com/tom.lengelle/)
+    - [Rémi Berard - LinkedIn](https://www.linkedin.com/in/remiberard/)
 
-### In the Media
+    *** In the Media ***
 
-- [La Montagne Article](https://www.lamontagne.fr/yzeure-03400/sports/trois-yzeuriens-realisent-un-defi-sportif-pour-lever-des-dons-pour-l-association-a-chacun-son-everest_13810196/)
-- [A Chacun son Everest Article](https://www.achacunsoneverest.com/articles/5987/3-jeunes-engages-dans-une-randonnee-solidaire-aux-cotes-da-chacun-son-everest)
+    - [La Montagne Article](https://www.lamontagne.fr/yzeure-03400/sports/trois-yzeuriens-realisent-un-defi-sportif-pour-lever-des-dons-pour-l-association-a-chacun-son-everest_13810196/)
+    - [A Chacun son Everest Article](https://www.achacunsoneverest.com/articles/5987/3-jeunes-engages-dans-une-randonnee-solidaire-aux-cotes-da-chacun-son-everest)
 
-### Image
+    *** Image ***
 
-![Trek'Yz Team](images_trekyz.png)
+    ![Trek'Yz Team](images_trekyz.png)
 
-### Overview
+    *** Overview ***
 
-Trek'Yz is more than just a charitable project; it's a journey we've undertaken to make a positive impact. Follow our adventures on [Instagram](https://www.instagram.com/trekyz/?hl=fr) and connect with the team members:
+    Trek'Yz is more than just a charitable project; it's a journey we've undertaken to make a positive impact. Follow our adventures on [Instagram](https://www.instagram.com/trekyz/?hl=fr) and connect with the team members:
 
-- **Tom Lengellé**: Follow Tom's updates on [Facebook](https://m.facebook.com/tom.lengelle/).
-- **Rémi Berard**: Learn more about Rémi's journey on [LinkedIn](https://www.linkedin.com/in/remiberard/).
+    - **Tom Lengellé**: Follow Tom's updates on [Facebook](https://m.facebook.com/tom.lengelle/).
+    - **Rémi Berard**: Learn more about Rémi's journey on [LinkedIn](https://www.linkedin.com/in/remiberard/).
 
-### In the News
+    *** In the News ***
 
-Explore our feature in the local journal, [La Montagne](https://www.lamontagne.fr/yzeure-03400/sports/trois-yzeuriens-realisent-un-defi-sportif-pour-lever-des-dons-pour-l-association-a-chacun-son-everest_13810196/), and read about our mission on [A Chacun son Everest's official page](https://www.achacunsoneverest.com/articles/5987/3-jeunes-engages-dans-une-randonnee-solidaire-aux-cotes-da-chacun-son-everest).
+    Explore our feature in the local journal, [La Montagne](https://www.lamontagne.fr/yzeure-03400/sports/trois-yzeuriens-realisent-un-defi-sportif-pour-lever-des-dons-pour-l-association-a-chacun-son-everest_13810196/), and read about our mission on [A Chacun son Everest's official page](https://www.achacunsoneverest.com/articles/5987/3-jeunes-engages-dans-une-randonnee-solidaire-aux-cotes-da-chacun-son-everest).
 
-### The Journey Concludes
+    *** The Journey Concludes ***
 
-With gratitude and a sense of accomplishment, we announce the conclusion of our fundraising project. The support we received has exceeded our expectations, and the funds raised will make a significant impact on the lives of those touched by cancer.
+    With gratitude and a sense of accomplishment, we announce the conclusion of our fundraising project. The support we received has exceeded our expectations, and the funds raised will make a significant impact on the lives of those touched by cancer.
 
-If you've been part of this journey, thank you for your generosity and encouragement. While this specific chapter may be closing, our commitment to making a positive impact continues. Stay connected with Trek'Yz for future endeavors and opportunities to join us in making a difference.
+    If you've been part of this journey, thank you for your generosity and encouragement. While this specific chapter may be closing, our commitment to making a positive impact continues. Stay connected with Trek'Yz for future endeavors and opportunities to join us in making a difference.
 
-Thank you for being part of the Trek'Yz community.
+    Thank you for being part of the Trek'Yz community.
 
-Best regards,
+    Best regards,
 
-Adrien
-Co-founder, Trek'Yz
+    Adrien
+    Co-founder, Trek'Yz
 
 
 </details>
@@ -123,21 +123,21 @@ Co-founder, Trek'Yz
 <details>
   <summary>Music</summary>
 
-  I wanted to take a moment to share a bit more about myself in the personal section of my academic website. Beyond my academic pursuits, I have a deep passion for music that has been a constant companion throughout my life.
+    I wanted to take a moment to share a bit more about myself in the personal section of my academic website. Beyond my academic pursuits, I have a deep passion for music that has been a constant companion throughout my life.
 
-From the powerful beats of rock music to the distinctive sounds of Britpop, the improvisational nature of jazz, and the unique charm of indie tunes, I find inspiration in a diverse range of musical genres. My musical journey began during middle and high school when I had the incredible opportunity to play the French horn. Those years were filled with enriching experiences, and the French horn became an integral part of my identity. I particularly like the concerto for French Horn for Mozart or, a bit more unknown, Julius Watkins music : a black-american French Horn Jazzman.
+    From the powerful beats of rock music to the distinctive sounds of Britpop, the improvisational nature of jazz, and the unique charm of indie tunes, I find inspiration in a diverse range of musical genres. My musical journey began during middle and high school when I had the incredible opportunity to play the French horn. Those years were filled with enriching experiences, and the French horn became an integral part of my identity. I particularly like the concerto for French Horn for Mozart or, a bit more unknown, Julius Watkins music : a black-american French Horn Jazzman.
 
-Recently, I've embarked on a new chapter by picking up the guitar. The process of learning and creating music has been both challenging and immensely rewarding. As I explore this new avenue, I've also found a growing interest in playing bass. The rhythmic foundation and melodic possibilities of the bass guitar have captured my fascination, and I am excited about the prospect of delving deeper into this aspect of musical expression.
+    Recently, I've embarked on a new chapter by picking up the guitar. The process of learning and creating music has been both challenging and immensely rewarding. As I explore this new avenue, I've also found a growing interest in playing bass. The rhythmic foundation and melodic possibilities of the bass guitar have captured my fascination, and I am excited about the prospect of delving deeper into this aspect of musical expression.
 
-Music, for me, is not just a hobby; it's a source of joy, self-discovery, and connection. I believe that the intersection of academic pursuits and personal passions contributes to a more holistic understanding of oneself.
+    Music, for me, is not just a hobby; it's a source of joy, self-discovery, and connection. I believe that the intersection of academic pursuits and personal passions contributes to a more holistic understanding of oneself.
 
-I invite you to join me on this musical journey, whether through shared interests or by discovering something new together. Feel free to explore this section of my website to learn more about the multifaceted aspects of who I am. 
+    I invite you to join me on this musical journey, whether through shared interests or by discovering something new together. Feel free to explore this section of my website to learn more about the multifaceted aspects of who I am. 
 
-If you are inclined, I would be delighted if you could share your Spotify Wrapped or your account details, enabling us to collectively enjoy the enriching world of music.
+    If you are inclined, I would be delighted if you could share your Spotify Wrapped or your account details, enabling us to collectively enjoy the enriching world of music.
 
-Thank you for taking the time to get to know me a bit better. I look forward to connecting with you through the universal language of music.
+    Thank you for taking the time to get to know me a bit better. I look forward to connecting with you through the universal language of music.
 
-(written with the help of ChatGPT 😏) 
+    (written with the help of ChatGPT 😏) 
 
 </details>
 
