@@ -134,4 +134,18 @@ Co-founder, Trek'Yz
 </details>
 
 
- 
+ <details>
+  <summary>test</summary>
+
+  Music is a constant companion in my life. I enjoy a diverse range of genres, including rock, Britpop, jazz, and indie. In my earlier years, I played the French horn and later transitioned to playing the guitar. Recently, I've developed a keen interest in playing the bass. Music, for me, is not just a hobby; it's a source of joy, self-discovery, and connection.
+
+
+  **Recent Musical Endeavors**
+
+  - *Guitar Journey*: Exploring new chords and melodies on the guitar has been a fulfilling recent endeavor. From acoustic ballads to electric riffs, the guitar has become a versatile companion.
+
+  - *Bass Exploration*: Venturing into the world of bass playing has been both challenging and exciting. The rhythmic foundation and deep tones of the bass guitar have added a new dimension to my musical expression.
+
+  Feel free to share your favorite music or recommend albums that you've been enjoying lately!
+
+</details>
