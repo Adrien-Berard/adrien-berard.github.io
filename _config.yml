@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Adrien Berard / Adrien Berard website"
+title                    : "Adrien Berard website"
 title_separator          : "-"
 name                     : &name "Adrien Berard"
 description              : &description "Biophysics master student"
