@@ -27,7 +27,90 @@ Sportively,
 Adrien Berard
 
 # Association
+## Trek'Yz - A Charitable Journey for A Chacun son Everest !
 
+# Trek'Yz - A Charitable Journey Fueled by Passion
+
+## About Trek'Yz
+
+[Trek'Yz Instagram Page](https://www.instagram.com/trekyz/?hl=fr)
+
+### Overview
+
+Trek'Yz is a charitable project that I co-founded alongside my twin, Rémi Berard, and one of my best friends, Tom Lengellé. Born from our shared passion for sports, a deep connection to Auvergne, and the commitment to making a positive impact, Trek'Yz represents a unique fusion of physical endurance and philanthropy.
+
+### The Extended Challenge
+
+Our project took on a new dimension as we set out to cover a remarkable 100 kilometers in just two days. Every kilometer we traversed contributed €10, while each summit conquered added €100 to our fundraising efforts. Against the stunning backdrop of Auvergne, our beloved natal region, this extended challenge aimed to push our physical limits while raising crucial funds for the association "A Chacun son Everest !".
+
+### The Epic Journey
+
+Embarking on this odyssey, we journeyed through the heart of Auvergne, embracing the diverse landscapes that define our region. Whether under the radiant sun or the quiet moon, our team moved with purpose and determination. The extended duration of this challenge allowed us to delve even deeper into the beauty of our surroundings, fostering a profound connection to the cause we were championing.
+
+### Purposeful Strides
+
+Every step of the 100 kilometers symbolized our commitment to making a difference. The funds we raised were directed towards the invaluable work of "A Chacun son Everest !," supporting children and women affected by cancer. The challenge became more than a physical feat; it became a testament to the resilience of the human spirit and the collective power of a community working towards a meaningful cause.
+
+### Get Involved
+
+If you are inspired by our odyssey and wish to contribute or stay updated on our adventures, follow our [Instagram page](https://www.instagram.com/trekyz/?hl=fr).
+
+Join us in celebrating the indomitable spirit of Trek'Yz - where each kilometer is a testament to our shared commitment to making a positive impact.
+
+Thank you for your interest and support.
+
+Best regards,
+
+[Your Full Name]
+Co-founder, Trek'Yz
+[Link to Rémi Berard's LinkedIn Page]
+[Link to A Chacun son Everest ! Page]
+
+---
+
+# Trek'Yz - Connect with Us!
+
+## About Trek'Yz
+
+[Trek'Yz Instagram Page](https://www.instagram.com/trekyz/?hl=fr)
+
+### Meet the Team
+
+- [Tom Lengellé - Facebook](https://m.facebook.com/tom.lengelle/)
+- [Rémi Berard - LinkedIn](https://www.linkedin.com/in/remiberard/)
+
+### In the Media
+
+- [La Montagne Article](https://www.lamontagne.fr/yzeure-03400/sports/trois-yzeuriens-realisent-un-defi-sportif-pour-lever-des-dons-pour-l-association-a-chacun-son-everest_13810196/)
+- [A Chacun son Everest Article](https://www.achacunsoneverest.com/articles/5987/3-jeunes-engages-dans-une-randonnee-solidaire-aux-cotes-da-chacun-son-everest)
+
+### Image
+
+![Trek'Yz Team](images_trekyz.png)
+
+### Overview
+
+Trek'Yz is more than just a charitable project; it's a journey we've undertaken to make a positive impact. Follow our adventures on [Instagram](https://www.instagram.com/trekyz/?hl=fr) and connect with the team members:
+
+- **Tom Lengellé**: Follow Tom's updates on [Facebook](https://m.facebook.com/tom.lengelle/).
+- **Rémi Berard**: Learn more about Rémi's journey on [LinkedIn](https://www.linkedin.com/in/remiberard/).
+
+### In the News
+
+Explore our feature in the local journal, [La Montagne](https://www.lamontagne.fr/yzeure-03400/sports/trois-yzeuriens-realisent-un-defi-sportif-pour-lever-des-dons-pour-l-association-a-chacun-son-everest_13810196/), and read about our mission on [A Chacun son Everest's official page](https://www.achacunsoneverest.com/articles/5987/3-jeunes-engages-dans-une-randonnee-solidaire-aux-cotes-da-chacun-son-everest).
+
+### The Journey Concludes
+
+With gratitude and a sense of accomplishment, we announce the conclusion of our fundraising project. The support we received has exceeded our expectations, and the funds raised will make a significant impact on the lives of those touched by cancer.
+
+If you've been part of this journey, thank you for your generosity and encouragement. While this specific chapter may be closing, our commitment to making a positive impact continues. Stay connected with Trek'Yz for future endeavors and opportunities to join us in making a difference.
+
+Thank you for being part of the Trek'Yz community.
+
+Best regards,
+
+Adrien
+Co-founder, Trek'Yz
 
 
 # Music
@@ -45,4 +128,4 @@ If you are inclined, I would be delighted if you could share your Spotify Wrappe
 
 Thank you for taking the time to get to know me a bit better. I look forward to connecting with you through the universal language of music.
 
-(written with the help of ChatGPT :smirk:) 
+(written with the help of ChatGPT 😏) 
