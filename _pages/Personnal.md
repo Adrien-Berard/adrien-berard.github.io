@@ -11,8 +11,10 @@ author_profile: true
     1. [Trek'Yz project](#trek'yz)
 4. [Music](#music)
 
-## This is the introduction <a name="introduction"></a>
-Some introduction text, formatted in heading 2 style
+## Introduction <a name="introduction"></a>
+Welcome to the "Personal" section of my academic realm! Here, the textbooks take a brief hiatus, making way for a more personal dialogue. Think of it as a backstage pass, offering a sneak peek into the mosaic of my life beyond academia. From sports escapades to charitable endeavors and the rhythmic cadence of music, join me in this informal exploration. Let's break away from the academic jargon and dive into the stories, adventures, and quirks that make up the person behind the scholarly pursuits. Welcome to the more relaxed side of my digital space!
+
+---
 
 # Sport <a name="sport"></a>
 
@@ -46,6 +48,7 @@ Sportively,
 
 Adrien 
 
+<a href="#top">Back to top</a>
 ---
 
 # Caritative work <a name="caritative"></a>
@@ -135,6 +138,7 @@ Best regards,
 Adrien
 Co-founder, Trek'Yz
 
+<a href="#top">Back to top</a>
 ---
 
 # Music <a name="music"></a>
@@ -164,3 +168,4 @@ Thank you for taking the time to get to know me a bit better. I look forward to 
 
 (written with the help of ChatGPT 😏) 
 
+<a href="#top">Back to top</a>
