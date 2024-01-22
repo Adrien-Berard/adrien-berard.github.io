@@ -4,7 +4,23 @@ title: "Personnal"
 permalink: /personnal/
 author_profile: true
 ---
+<p>
+<details>
+<summary>Cool Dropdown #1</summary>
 
+[Or a link - like to google](https://google.com)
+
+- Or a List
+  - or a nested List
+  - like this
+  - with 😊 emojis
+- Like this
+
+Or even just normal text
+
+</details>
+
+---
 # Sport
 
 
