@@ -18,6 +18,7 @@ Welcome to the "Personal" section of my academic realm! Here, the textbooks take
 
 # Sport <a name="sport"></a>
 
+<a href="#top">Back to top</a>
 
 Dear Website Visitors, 
 
@@ -48,10 +49,11 @@ Sportively,
 
 Adrien 
 
-<a href="#top">Back to top</a>
 ---
 
 # Caritative work <a name="caritative"></a>
+
+<a href="#top">Back to top</a>
 
 ## Trek'Yz - A Charitable Journey for A Chacun son Everest ! <a name="trek'yz"></a>
 
@@ -138,11 +140,11 @@ Best regards,
 Adrien
 Co-founder, Trek'Yz
 
-<a href="#top">Back to top</a>
 ---
 
 # Music <a name="music"></a>
 
+<a href="#top">Back to top</a>
 
 I wanted to take a moment to share a bit more about myself in the personal section of my academic website. Beyond my academic pursuits, I have a deep passion for music that has been a constant companion throughout my life.
 
