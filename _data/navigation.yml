@@ -22,8 +22,8 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
   
-  - title: "Personnal"
-    url: /personnal/
+  - title: "Personal"
+    url: /personal/
 
   #- title: "Guide"
   #  url: /markdown/

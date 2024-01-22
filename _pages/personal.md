@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Personnal"
-permalink: /personnal/
+title: "Personal"
+permalink: /personal/
 author_profile: true
 ---
 # Table of contents
@@ -12,7 +12,7 @@ author_profile: true
 4. [Music 🎧](#music)
 
 ## Introduction <a name="introduction"></a>
-Welcome to the "Personnal" section of my academic realm! Here, the textbooks take a brief hiatus, making way for a more personal dialogue. Think of it as a backstage pass, offering a sneak peek into the mosaic of my life beyond academia. From sports escapades to charitable endeavors and the rhythmic cadence of music, join me in this informal exploration. Let's break away from the academic jargon and dive into the stories, adventures, and quirks that make up the person behind the scholarly pursuits. Welcome to the more relaxed side of my digital space!
+Welcome to the "Personal" section of my academic realm! Here, the textbooks take a brief hiatus, making way for a more personal dialogue. Think of it as a backstage pass, offering a sneak peek into the mosaic of my life beyond academia. From sports escapades to charitable endeavors and the rhythmic cadence of music, join me in this informal exploration. Let's break away from the academic jargon and dive into the stories, adventures, and quirks that make up the person behind the scholarly pursuits. Welcome to the more relaxed side of my digital space!
 
 ---
 
