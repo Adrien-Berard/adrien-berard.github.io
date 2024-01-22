@@ -4,24 +4,16 @@ title: "Personnal"
 permalink: /personnal/
 author_profile: true
 ---
-<p>
-<details>
-<summary>Cool Dropdown #1</summary>
+# Table of contents
+1. [Introduction](#introduction)
+2. [Sport](#sport)
+3. [Caritative work](#caritative)
+4. [Music](#music)
 
-[Or a link - like to google](https://google.com)
+## This is the introduction <a name="introduction"></a>
+Some introduction text, formatted in heading 2 style
 
-- Or a List
-  - or a nested List
-  - like this
-  - with 😊 emojis
-- Like this
-
-Or even just normal text
-
-</details>
-
----
-# Sport
+# Sport <a name="sport"></a>
 
 
 Dear Website Visitors, 
@@ -55,7 +47,7 @@ Adrien
 
 ---
 
-# Caritative work
+# Caritative work <a name="caritative"></a>
 
 ## Trek'Yz - A Charitable Journey for A Chacun son Everest !
 
@@ -144,7 +136,7 @@ Co-founder, Trek'Yz
 
 ---
 
-# Music
+# Music <a name="music"></a>
 
 
 I wanted to take a moment to share a bit more about myself in the personal section of my academic website. Beyond my academic pursuits, I have a deep passion for music that has been a constant companion throughout my life.
