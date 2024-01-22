@@ -37,6 +37,8 @@ Sportively,
 
 Adrien 
 
+---
+
 # Caritative work
 
 ## Trek'Yz - A Charitable Journey for A Chacun son Everest !
@@ -124,7 +126,7 @@ Best regards,
 Adrien
 Co-founder, Trek'Yz
 
-
+---
 
 # Music
 
@@ -153,24 +155,3 @@ Thank you for taking the time to get to know me a bit better. I look forward to 
 
 (written with the help of ChatGPT 😏) 
 
-
-<details>
-<summary>Heading</summary>
-<!--All you need is a blank line-->
-
-    + markdown list 1
-## Test
-        + nested list 1
-        + nested list 2
-    + markdown list 2
-</details>
-
-# Contents
-
-<details>
-<summary>Website 🌐</summary>
-<br>
-  
-# Website
-
-## a
