@@ -8,6 +8,7 @@ author_profile: true
 1. [Introduction](#introduction)
 2. [Sport](#sport)
 3. [Caritative work](#caritative)
+    1. [Trek'Yz project](#trek'yz)
 4. [Music](#music)
 
 ## This is the introduction <a name="introduction"></a>
@@ -49,7 +50,7 @@ Adrien
 
 # Caritative work <a name="caritative"></a>
 
-## Trek'Yz - A Charitable Journey for A Chacun son Everest !
+## Trek'Yz - A Charitable Journey for A Chacun son Everest ! <a name="trek'yz"></a>
 
 ## Trek'Yz - A Charitable Journey Fueled by Passion
 
