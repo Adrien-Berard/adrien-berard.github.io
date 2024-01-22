@@ -132,7 +132,7 @@ Co-founder, Trek'Yz
 I wanted to take a moment to share a bit more about myself in the personal section of my academic website. Beyond my academic pursuits, I have a deep passion for music that has been a constant companion throughout my life.
 
 
-From the powerful beats of rock music to the distinctive sounds of Britpop, the improvisational nature of jazz, and the unique charm of indie tunes, I find inspiration in a diverse range of musical genres. My musical journey began during middle and high school when I had the incredible opportunity to play the French horn. Those years were filled with enriching experiences, and the French horn became an integral part of my identity. I particularly like the concerto for French Horn for Mozart or, a bit more unknown, Julius Watkins music : a black-american French Horn Jazzman.
+From the powerful beats of rock music to the distinctive sounds of Britpop, the improvisational nature of jazz, and the unique charm of indie tunes, I find inspiration in a diverse range of musical genres. My musical journey began during middle and high school when I had the incredible opportunity to play the French horn. Those years were filled with enriching experiences, and the French horn became an integral part of my identity. I particularly like the concerto for French Horn by Mozart or, a bit more unknown, Julius Watkins music : a black-american French Horn Jazzman.
 
 
 Recently, I've embarked on a new chapter by picking up the guitar. The process of learning and creating music has been both challenging and immensely rewarding. As I explore this new avenue, I've also found a growing interest in playing bass. The rhythmic foundation and melodic possibilities of the bass guitar have captured my fascination, and I am excited about the prospect of delving deeper into this aspect of musical expression.
@@ -154,3 +154,13 @@ Thank you for taking the time to get to know me a bit better. I look forward to 
 (written with the help of ChatGPT 😏) 
 
 
+<details>
+<summary>Heading</summary>
+<!--All you need is a blank line-->
+
+    + markdown list 1
+## Test
+        + nested list 1
+        + nested list 2
+    + markdown list 2
+</details>
