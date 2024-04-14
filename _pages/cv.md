@@ -8,6 +8,6 @@ redirect_from:
 ---
 
 Click here to download my CV : 
-<a href="https://adrien-berard.github.io/website.github.io/files/Academic_CV_Adrien_Berard-2024.pdf" target="_blank" download="Academic_CV_Adrien_Berard-2024.pdf">CV</a>
+<a href="https://adrien-berard.github.io/website.github.io/files/Academic_CV_Adrien_Berard.pdf" target="_blank" download="Academic_CV_Adrien_Berard-2024.pdf">CV</a>
 
-<iframe src="https://adrien-berard.github.io/website.github.io/files/Academic_CV_Adrien_Berard-2024.pdf" width="100%" height="500px"> </iframe>
+<iframe src="https://adrien-berard.github.io/website.github.io/files/Academic_CV_Adrien_Berard.pdf" width="100%" height="500px"> </iframe>
