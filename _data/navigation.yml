@@ -21,9 +21,6 @@ main:
   
   - title: "Blog Posts"
     url: /year-archive/
-
-  - title : "Language Learning Posts"
-    url: /blogLanguage/
   
   - title: "Personal"
     url: /personal/
