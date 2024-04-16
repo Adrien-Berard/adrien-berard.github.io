@@ -114,7 +114,7 @@ Co-founder, Trek'Yz
 
 #### Image
 
-![Trek'Yz Team](https://adrien-berard.github.io/website.github.io/images/images_trekyz.png)
+![Trek'Yz Team](https://adrien-berard.github.io/images/images_trekyz.png)
 
 #### Overview
 
