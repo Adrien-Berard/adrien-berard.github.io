@@ -7,4 +7,4 @@ redirect_from:
     - /resume
 ---
 
-{% include sharang.html %}
+[Farewell](sharang.html)
