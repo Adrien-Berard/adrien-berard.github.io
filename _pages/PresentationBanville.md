@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Presentation Banville 2024"
-permalink: /banville 2024/
+permalink: /PresentationBanville2024/
 author_profile: true
 redirect_from:
   - /resume

@@ -16,11 +16,16 @@ main:
   - title: "CV"
     url: /cv/
 
+  - title: "Banville 2024"
+    url: /PresentationBanville2024/
+
   - title: "References"
     url: /references/
 
   - title: "Farewell Sharang"
     url: /farewell/
+
+  
   
   #- title: "Blog Posts"
    # url: /year-archive/
