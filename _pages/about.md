@@ -10,7 +10,9 @@ redirect_from:
 
 Dear reader,
 
-I am a first-year biophysics master's student at Sorbonne University currently undertaking an internship under the supervision of <a href="https://www1.bio.ku.dk/english/staff/?pure=en/persons/29648">Dr. Genevieve Thon</a>, a biologist at the Department of Biology of the University of Copenhagen (UCPH), and <a href="https://nbi.ku.dk/english/staff/?pure=en/persons/41236">Dr. Kim Sneppen</a>, a physicist at the Niels Bohr Institute of UCPH. The focus of my internship is the study of heterochromatin in fission yeast. Our research involves investigating the kinetics of nucleosome modifications and the dynamics of chromatin using a combination of cellular and molecular biology methods, along with a theoretical foundation in the liquid-liquid phase separation theory.
+I am a second-year biophysics master's student at Sorbonne University who undertook an internship under the supervision of <a href="https://www1.bio.ku.dk/english/staff/?pure=en/persons/29648">Dr. Genevieve Thon</a>, a biologist at the Department of Biology of the University of Copenhagen (UCPH), and <a href="https://nbi.ku.dk/english/staff/?pure=en/persons/41236">Dr. Kim Sneppen</a>, a physicist at the Niels Bohr Institute of UCPH. The focus of my internship is the study of heterochromatin in fission yeast. Our research involves investigating the kinetics of nucleosome modifications and the dynamics of chromatin using a combination of cellular and molecular biology methods, along with a theoretical foundation in the liquid-liquid phase separation theory.
+
+After several weeks at Pasteur, I will undertake an internship still working on liquid-liquid phase separation theory in Judith Miné-Hattab using super resolution microscopy in human cells in DNA repair.
 
 <img src="https://adrien-berard.github.io/images/Sciences_SU.png" alt="logo Sorbonne Université">
 
